@@ -63,7 +63,7 @@ None at this time. Please report any issues you find on our GitHub repository.
 
 ## Release Notes
 
-### 1.0.0
+### 0.1.0
 
 Initial release of Markdown Header Counter:
 - Basic header and content character counting

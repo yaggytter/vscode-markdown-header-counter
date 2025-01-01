@@ -19,12 +19,13 @@
     }
   },
   "version": "0.1.0",
-  "publisher": "Akihiro YAGASAKI",
+  "publisher": "AkihiroYAGASAKI",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/yaggytter/vscode-markdown-header-counter"
   },
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.95.0"
   },
