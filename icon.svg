@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+    <!-- Background -->
+    <rect width="128" height="128" fill="transparent"/>
+    <rect width="128" height="128" rx="16" fill="#2C2C32"/>
+    
+    <!-- MD Text -->
+    <text x="32" y="45" font-family="monospace" font-size="24" fill="#569CD6" font-weight="bold">MD</text>
+    
+    <!-- Counter Circle -->
+    <circle cx="88" cy="40" r="20" fill="#4EC9B0"/>
+    <text x="80" y="48" font-family="monospace" font-size="18" fill="white" font-weight="bold">#</text>
+    
+    <!-- Header Levels -->
+    <g fill="#D4D4D4">
+        <rect x="30" y="65" width="68" height="4" rx="2"/>
+        <rect x="40" y="80" width="58" height="4" rx="2"/>
+        <rect x="50" y="95" width="48" height="4" rx="2"/>
+    </g>
+    
+    <!-- Numbers -->
+    <text x="105" y="70" font-family="monospace" font-size="14" fill="#CE9178">1</text>
+    <text x="105" y="85" font-family="monospace" font-size="14" fill="#CE9178">2</text>
+    <text x="105" y="100" font-family="monospace" font-size="14" fill="#CE9178">3</text>
+</svg>
